@@ -1,2 +1,3 @@
 # 144mhz.
-144_Kharkiv
+144_Kharkiv_websdr
+US5LOC
